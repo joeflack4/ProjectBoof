@@ -1,0 +1,661 @@
+{
+  "file_metadata": {
+    "source": "clingen",
+    "filepath": "clingen/gene-validity/gene-validity.csv",
+    "filename": "gene-validity.csv",
+    "file_size_mb": 0.9540548324584961,
+    "row_count": 3303,
+    "column_count": 10,
+    "delimiter": ",",
+    "encoding": "utf-8",
+    "analyzed_date": "2025-10-04T22:15:41.529878",
+    "sample_size": null
+  },
+  "field_analyses": [
+    {
+      "field_name": "CLINGEN GENE DISEASE VALIDITY CURATIONS",
+      "total_count": 3303,
+      "non_null_count": "3303",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 2733,
+      "cardinality": "high",
+      "data_type": "string",
+      "min_length": 2,
+      "max_length": 59,
+      "mean_length": 5.035725098395398,
+      "top_values": [
+        {
+          "value": "COL2A1",
+          "count": 8,
+          "percentage": 0.24220405691795338
+        },
+        {
+          "value": "FGFR3",
+          "count": 7,
+          "percentage": 0.2119285498032092
+        },
+        {
+          "value": "FGFR2",
+          "count": 6,
+          "percentage": 0.18165304268846502
+        },
+        {
+          "value": "MUTYH",
+          "count": 6,
+          "percentage": 0.18165304268846502
+        },
+        {
+          "value": "HBB",
+          "count": 6,
+          "percentage": 0.18165304268846502
+        },
+        {
+          "value": "TTN",
+          "count": 6,
+          "percentage": 0.18165304268846502
+        },
+        {
+          "value": "MYH7",
+          "count": 5,
+          "percentage": 0.15137753557372086
+        },
+        {
+          "value": "SCN5A",
+          "count": 5,
+          "percentage": 0.15137753557372086
+        },
+        {
+          "value": "MYBPC3",
+          "count": 5,
+          "percentage": 0.15137753557372086
+        },
+        {
+          "value": "TNNI3",
+          "count": 4,
+          "percentage": 0.12110202845897669
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 1",
+      "total_count": 3303,
+      "non_null_count": "3301",
+      "null_count": "2",
+      "null_percentage": 0.060551014229488345,
+      "unique_count": 2731,
+      "cardinality": "high",
+      "data_type": "string",
+      "min_length": 7,
+      "max_length": 14,
+      "mean_length": 9.422296273856407,
+      "top_values": [
+        {
+          "value": "HGNC:2200",
+          "count": 8,
+          "percentage": 0.24220405691795338
+        },
+        {
+          "value": "HGNC:3690",
+          "count": 7,
+          "percentage": 0.2119285498032092
+        },
+        {
+          "value": "HGNC:12403",
+          "count": 6,
+          "percentage": 0.18165304268846502
+        },
+        {
+          "value": "HGNC:4827",
+          "count": 6,
+          "percentage": 0.18165304268846502
+        },
+        {
+          "value": "HGNC:3689",
+          "count": 6,
+          "percentage": 0.18165304268846502
+        },
+        {
+          "value": "HGNC:7527",
+          "count": 6,
+          "percentage": 0.18165304268846502
+        },
+        {
+          "value": "HGNC:10593",
+          "count": 5,
+          "percentage": 0.15137753557372086
+        },
+        {
+          "value": "HGNC:7551",
+          "count": 5,
+          "percentage": 0.15137753557372086
+        },
+        {
+          "value": "HGNC:7577",
+          "count": 5,
+          "percentage": 0.15137753557372086
+        },
+        {
+          "value": "HGNC:9498",
+          "count": 4,
+          "percentage": 0.12110202845897669
+        }
+      ],
+      "pattern": "HGNC ID"
+    },
+    {
+      "field_name": "Unnamed: 2",
+      "total_count": 3303,
+      "non_null_count": "3301",
+      "null_count": "2",
+      "null_percentage": 0.060551014229488345,
+      "unique_count": 1891,
+      "cardinality": "high",
+      "data_type": "string",
+      "min_length": 8,
+      "max_length": 144,
+      "mean_length": 33.35867918812481,
+      "top_values": [
+        {
+          "value": "mitochondrial disease",
+          "count": 166,
+          "percentage": 5.0257341810475324
+        },
+        {
+          "value": "complex neurodevelopmental disorder",
+          "count": 117,
+          "percentage": 3.5422343324250685
+        },
+        {
+          "value": "Leigh syndrome",
+          "count": 114,
+          "percentage": 3.451407811080836
+        },
+        {
+          "value": "nonsyndromic genetic hearing loss",
+          "count": 96,
+          "percentage": 2.9064486830154403
+        },
+        {
+          "value": "congenital heart disease",
+          "count": 83,
+          "percentage": 2.5128670905237662
+        },
+        {
+          "value": "dilated cardiomyopathy",
+          "count": 66,
+          "percentage": 1.9981834695731153
+        },
+        {
+          "value": "hypertrophic cardiomyopathy",
+          "count": 40,
+          "percentage": 1.2110202845897668
+        },
+        {
+          "value": "syndromic intellectual disability",
+          "count": 36,
+          "percentage": 1.08991825613079
+        },
+        {
+          "value": "developmental and epileptic encephalopathy",
+          "count": 33,
+          "percentage": 0.9990917347865577
+        },
+        {
+          "value": "ciliopathy",
+          "count": 31,
+          "percentage": 0.9385407205570693
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 3",
+      "total_count": 3303,
+      "non_null_count": "3301",
+      "null_count": "2",
+      "null_percentage": 0.060551014229488345,
+      "unique_count": 1890,
+      "cardinality": "high",
+      "data_type": "string",
+      "min_length": 13,
+      "max_length": 18,
+      "mean_length": 13.004544077552257,
+      "top_values": [
+        {
+          "value": "MONDO:0044970",
+          "count": 166,
+          "percentage": 5.0257341810475324
+        },
+        {
+          "value": "MONDO:0100038",
+          "count": 117,
+          "percentage": 3.5422343324250685
+        },
+        {
+          "value": "MONDO:0009723",
+          "count": 114,
+          "percentage": 3.451407811080836
+        },
+        {
+          "value": "MONDO:0019497",
+          "count": 96,
+          "percentage": 2.9064486830154403
+        },
+        {
+          "value": "MONDO:0005453",
+          "count": 83,
+          "percentage": 2.5128670905237662
+        },
+        {
+          "value": "MONDO:0005021",
+          "count": 66,
+          "percentage": 1.9981834695731153
+        },
+        {
+          "value": "MONDO:0005045",
+          "count": 40,
+          "percentage": 1.2110202845897668
+        },
+        {
+          "value": "MONDO:0100062",
+          "count": 36,
+          "percentage": 1.08991825613079
+        },
+        {
+          "value": "MONDO:0000508",
+          "count": 36,
+          "percentage": 1.08991825613079
+        },
+        {
+          "value": "MONDO:0005308",
+          "count": 31,
+          "percentage": 0.9385407205570693
+        }
+      ],
+      "pattern": "MONDO ID"
+    },
+    {
+      "field_name": "Unnamed: 4",
+      "total_count": 3303,
+      "non_null_count": "3301",
+      "null_count": "2",
+      "null_percentage": 0.060551014229488345,
+      "unique_count": 8,
+      "cardinality": "low",
+      "data_type": "string",
+      "min_length": 2,
+      "max_length": 9,
+      "mean_length": 2.0045440775522567,
+      "top_values": [
+        {
+          "value": "AR",
+          "count": 1632,
+          "percentage": 49.40962761126249
+        },
+        {
+          "value": "AD",
+          "count": 1343,
+          "percentage": 40.66000605510142
+        },
+        {
+          "value": "XL",
+          "count": 187,
+          "percentage": 5.66151983045716
+        },
+        {
+          "value": "MT",
+          "count": 54,
+          "percentage": 1.6348773841961852
+        },
+        {
+          "value": "SD",
+          "count": 53,
+          "percentage": 1.6046018770814412
+        },
+        {
+          "value": "UD",
+          "count": 29,
+          "percentage": 0.877989706327581
+        },
+        {
+          "value": "+++++++++",
+          "count": 2,
+          "percentage": 0.060551014229488345
+        },
+        {
+          "value": "MOI",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 5",
+      "total_count": 3303,
+      "non_null_count": "3301",
+      "null_count": "2",
+      "null_percentage": 0.060551014229488345,
+      "unique_count": 10,
+      "cardinality": "medium",
+      "data_type": "string",
+      "min_length": 3,
+      "max_length": 9,
+      "mean_length": 4.333232353832172,
+      "top_values": [
+        {
+          "value": "SOP9",
+          "count": 829,
+          "percentage": 25.098395398122918
+        },
+        {
+          "value": "SOP10",
+          "count": 617,
+          "percentage": 18.679987889797154
+        },
+        {
+          "value": "SOP8",
+          "count": 509,
+          "percentage": 15.410233121404785
+        },
+        {
+          "value": "SOP11",
+          "count": 474,
+          "percentage": 14.350590372388739
+        },
+        {
+          "value": "SOP7",
+          "count": 396,
+          "percentage": 11.989100817438691
+        },
+        {
+          "value": "SOP6",
+          "count": 282,
+          "percentage": 8.537693006357856
+        },
+        {
+          "value": "SOP5",
+          "count": 122,
+          "percentage": 3.693611867998789
+        },
+        {
+          "value": "SOP4",
+          "count": 69,
+          "percentage": 2.0890099909173476
+        },
+        {
+          "value": "+++++++++",
+          "count": 2,
+          "percentage": 0.060551014229488345
+        },
+        {
+          "value": "SOP",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 6",
+      "total_count": 3303,
+      "non_null_count": "3301",
+      "null_count": "2",
+      "null_percentage": 0.060551014229488345,
+      "unique_count": 9,
+      "cardinality": "low",
+      "data_type": "string",
+      "min_length": 6,
+      "max_length": 29,
+      "mean_length": 9.369282035746743,
+      "top_values": [
+        {
+          "value": "Definitive",
+          "count": 2061,
+          "percentage": 62.39782016348774
+        },
+        {
+          "value": "Limited",
+          "count": 485,
+          "percentage": 14.683620950650925
+        },
+        {
+          "value": "Moderate",
+          "count": 396,
+          "percentage": 11.989100817438691
+        },
+        {
+          "value": "Disputed",
+          "count": 182,
+          "percentage": 5.510142294883439
+        },
+        {
+          "value": "Strong",
+          "count": 83,
+          "percentage": 2.5128670905237662
+        },
+        {
+          "value": "No Known Disease Relationship",
+          "count": 51,
+          "percentage": 1.544050862851953
+        },
+        {
+          "value": "Refuted",
+          "count": 40,
+          "percentage": 1.2110202845897668
+        },
+        {
+          "value": "++++++++++++++",
+          "count": 2,
+          "percentage": 0.060551014229488345
+        },
+        {
+          "value": "CLASSIFICATION",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 7",
+      "total_count": 3303,
+      "non_null_count": "3301",
+      "null_count": "2",
+      "null_percentage": 0.060551014229488345,
+      "unique_count": 3300,
+      "cardinality": "high",
+      "data_type": "string",
+      "min_length": 13,
+      "max_length": 125,
+      "mean_length": 123.53317176613147,
+      "top_values": [
+        {
+          "value": "+++++++++++++",
+          "count": 2,
+          "percentage": 0.060551014229488345
+        },
+        {
+          "value": "https://search.clinicalgenome.org/kb/gene-validity/CGGCIEX:assertion_10151",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        },
+        {
+          "value": "https://search.clinicalgenome.org/kb/gene-validity/CGGCIEX:assertion_8431",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        },
+        {
+          "value": "https://search.clinicalgenome.org/kb/gene-validity/CGGCIEX:assertion_9863",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        },
+        {
+          "value": "https://search.clinicalgenome.org/kb/gene-validity/CGGCIEX:assertion_8251",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        },
+        {
+          "value": "https://search.clinicalgenome.org/kb/gene-validity/CGGCIEX:assertion_8268",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        },
+        {
+          "value": "https://search.clinicalgenome.org/kb/gene-validity/CGGCIEX:assertion_8274",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        },
+        {
+          "value": "https://search.clinicalgenome.org/kb/gene-validity/CGGCIEX:assertion_8261",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        },
+        {
+          "value": "https://search.clinicalgenome.org/kb/gene-validity/CGGCIEX:assertion_8435",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        },
+        {
+          "value": "https://search.clinicalgenome.org/kb/gene-validity/CGGCIEX:assertion_8692",
+          "count": 1,
+          "percentage": 0.030275507114744173
+        }
+      ],
+      "pattern": "URL"
+    },
+    {
+      "field_name": "Unnamed: 8",
+      "total_count": 3303,
+      "non_null_count": "3301",
+      "null_count": "2",
+      "null_percentage": 0.060551014229488345,
+      "unique_count": 1978,
+      "cardinality": "high",
+      "data_type": "string",
+      "min_length": 19,
+      "max_length": 24,
+      "mean_length": 23.863677673432292,
+      "top_values": [
+        {
+          "value": "2018-07-24T16:00:00.000Z",
+          "count": 21,
+          "percentage": 0.6357856494096277
+        },
+        {
+          "value": "2025-05-30T16:00:00.000Z",
+          "count": 18,
+          "percentage": 0.544959128065395
+        },
+        {
+          "value": "2017-11-21T00:00:00",
+          "count": 16,
+          "percentage": 0.48440811383590676
+        },
+        {
+          "value": "2023-05-30T16:00:00.000Z",
+          "count": 14,
+          "percentage": 0.4238570996064184
+        },
+        {
+          "value": "2024-06-10T16:00:00.000Z",
+          "count": 13,
+          "percentage": 0.39358159249167424
+        },
+        {
+          "value": "2019-04-19T16:00:00.000Z",
+          "count": 12,
+          "percentage": 0.36330608537693004
+        },
+        {
+          "value": "2023-12-21T18:00:00.000Z",
+          "count": 10,
+          "percentage": 0.3027550711474417
+        },
+        {
+          "value": "2022-12-30T18:00:00.000Z",
+          "count": 10,
+          "percentage": 0.3027550711474417
+        },
+        {
+          "value": "2024-08-29T17:00:00.000Z",
+          "count": 9,
+          "percentage": 0.2724795640326975
+        },
+        {
+          "value": "2021-01-20T17:00:00.000Z",
+          "count": 9,
+          "percentage": 0.2724795640326975
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 9",
+      "total_count": 3303,
+      "non_null_count": "3301",
+      "null_count": "2",
+      "null_percentage": 0.060551014229488345,
+      "unique_count": 60,
+      "cardinality": "medium",
+      "data_type": "string",
+      "min_length": 4,
+      "max_length": 86,
+      "mean_length": 49.09179036655559,
+      "top_values": [
+        {
+          "value": "Intellectual Disability and Autism Gene Curation Expert Panel",
+          "count": 349,
+          "percentage": 10.566151983045716
+        },
+        {
+          "value": "Mitochondrial Diseases Gene Curation Expert Panel",
+          "count": 279,
+          "percentage": 8.446866485013624
+        },
+        {
+          "value": "Hearing Loss Gene Curation Expert Panel",
+          "count": 182,
+          "percentage": 5.510142294883439
+        },
+        {
+          "value": "Hereditary Cancer Gene Curation Expert Panel",
+          "count": 157,
+          "percentage": 4.753254617014835
+        },
+        {
+          "value": "Syndromic Disorders Gene Curation Expert Panel",
+          "count": 144,
+          "percentage": 4.35967302452316
+        },
+        {
+          "value": "Epilepsy Gene Curation Expert Panel",
+          "count": 141,
+          "percentage": 4.268846503178928
+        },
+        {
+          "value": "Retina Gene Curation Expert Panel",
+          "count": 119,
+          "percentage": 3.6027853466545565
+        },
+        {
+          "value": "Aminoacidopathy Gene Curation Expert Panel",
+          "count": 117,
+          "percentage": 3.5422343324250685
+        },
+        {
+          "value": "Hemostasis/Thrombosis Gene Curation Expert Panel",
+          "count": 114,
+          "percentage": 3.451407811080836
+        },
+        {
+          "value": "SCID-CID Gene Curation Expert Panel",
+          "count": 96,
+          "percentage": 2.9064486830154403
+        }
+      ],
+      "pattern": null
+    }
+  ]
+}

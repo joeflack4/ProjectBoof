@@ -1,0 +1,938 @@
+{
+  "file_metadata": {
+    "source": "clingen",
+    "filepath": "clingen/dosage-sensitivity/dosage-sensitivity-grch38.tsv",
+    "filename": "dosage-sensitivity-grch38.tsv",
+    "file_size_mb": 0.24626541137695312,
+    "row_count": 1595,
+    "column_count": 23,
+    "delimiter": "\t",
+    "encoding": "utf-8",
+    "analyzed_date": "2025-10-04T22:15:42.750616",
+    "sample_size": null
+  },
+  "field_analyses": [
+    {
+      "field_name": "A4GALT",
+      "total_count": 1595,
+      "non_null_count": "1595",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 1595,
+      "cardinality": "unique",
+      "data_type": "string",
+      "min_length": 2,
+      "max_length": 9,
+      "mean_length": 4.980564263322884,
+      "top_values": [
+        {
+          "value": "AAGAB",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "PIK3R2",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "PIGW",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "PIGO",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "PIGN",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "PIGA",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "PHYH",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "PHOX2B",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "PHLDA2",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "PHKG2",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "53947",
+      "total_count": 1595,
+      "non_null_count": "1595",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 1595,
+      "cardinality": "unique",
+      "data_type": "integer",
+      "min": 16.0,
+      "max": 100506658.0,
+      "mean": 104029.22445141066,
+      "median": 7552.0,
+      "std": 2516899.780210832,
+      "q1": 3725.0,
+      "q3": 54627.5,
+      "iqr": 50902.5,
+      "outlier_count": 122,
+      "outlier_percentage": 7.6489028213166135,
+      "skewness": 39.87443658177508,
+      "distribution_type": "skewed_right"
+    },
+    {
+      "field_name": "22q13.2",
+      "total_count": 1595,
+      "non_null_count": "1595",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 615,
+      "cardinality": "medium",
+      "data_type": "string",
+      "min_length": 4,
+      "max_length": 21,
+      "mean_length": 6.603134796238245,
+      "top_values": [
+        {
+          "value": "Xq28",
+          "count": 20,
+          "percentage": 1.2539184952978055
+        },
+        {
+          "value": "16p13.3",
+          "count": 18,
+          "percentage": 1.128526645768025
+        },
+        {
+          "value": "11q23.3",
+          "count": 13,
+          "percentage": 0.8150470219435737
+        },
+        {
+          "value": "19p13.3",
+          "count": 13,
+          "percentage": 0.8150470219435737
+        },
+        {
+          "value": "Xp11.23",
+          "count": 12,
+          "percentage": 0.7523510971786834
+        },
+        {
+          "value": "14q11.2",
+          "count": 11,
+          "percentage": 0.6896551724137931
+        },
+        {
+          "value": "15q11.2",
+          "count": 11,
+          "percentage": 0.6896551724137931
+        },
+        {
+          "value": "16p11.2",
+          "count": 11,
+          "percentage": 0.6896551724137931
+        },
+        {
+          "value": "4p16.3",
+          "count": 11,
+          "percentage": 0.6896551724137931
+        },
+        {
+          "value": "21q22.3",
+          "count": 11,
+          "percentage": 0.6896551724137931
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "chr22:42692121-42721301",
+      "total_count": 1595,
+      "non_null_count": "1595",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 1595,
+      "cardinality": "unique",
+      "data_type": "string",
+      "min_length": 18,
+      "max_length": 25,
+      "mean_length": 22.813166144200625,
+      "top_values": [
+        {
+          "value": "chr15:67200667-67255198",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "chr19:18153163-18170532",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "chr17:36534987-36539303",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "chr9:35088688-35096591",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "chr18:62017615-62187056",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "chrX:15319451-15335554",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "chr10:13277799-13300064",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "chr4:41744082-41748725",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "chr11:2928273-2929420",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "chr16:30748425-30761176",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "30",
+      "total_count": 1595,
+      "non_null_count": "1595",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 6,
+      "cardinality": "low",
+      "data_type": "integer",
+      "min": 0.0,
+      "max": 40.0,
+      "mean": 15.270846394984327,
+      "median": 3.0,
+      "std": 14.514929672965902,
+      "q1": 1.0,
+      "q3": 30.0,
+      "iqr": 29.0,
+      "outlier_count": 0,
+      "outlier_percentage": 0.0,
+      "skewness": 0.12854968126787464,
+      "distribution_type": "normal"
+    },
+    {
+      "field_name": "Gene associated with autosomal recessive phenotype",
+      "total_count": 1595,
+      "non_null_count": "1595",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 6,
+      "cardinality": "low",
+      "data_type": "string",
+      "min_length": 21,
+      "max_length": 50,
+      "mean_length": 41.72100313479624,
+      "top_values": [
+        {
+          "value": "Gene associated with autosomal recessive phenotype",
+          "count": 720,
+          "percentage": 45.141065830721004
+        },
+        {
+          "value": "Sufficient evidence for dosage pathogenicity",
+          "count": 401,
+          "percentage": 25.141065830721004
+        },
+        {
+          "value": "No evidence available",
+          "count": 294,
+          "percentage": 18.432601880877744
+        },
+        {
+          "value": "Little evidence for dosage pathogenicity",
+          "count": 136,
+          "percentage": 8.526645768025078
+        },
+        {
+          "value": "Dosage sensitivity unlikely",
+          "count": 35,
+          "percentage": 2.19435736677116
+        },
+        {
+          "value": "Some evidence for dosage pathogenicity",
+          "count": 9,
+          "percentage": 0.5642633228840125
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 6",
+      "total_count": 1595,
+      "non_null_count": "650",
+      "null_count": "945",
+      "null_percentage": 59.24764890282132,
+      "unique_count": 585,
+      "cardinality": "medium",
+      "data_type": "float",
+      "min": 615905.0,
+      "max": 39272213.0,
+      "mean": 22631672.116923075,
+      "median": 23112304.0,
+      "std": 7912895.739478878,
+      "q1": 16964206.25,
+      "q3": 28689435.25,
+      "iqr": 11725229.0,
+      "outlier_count": 0,
+      "outlier_percentage": 0.0,
+      "skewness": -0.32308655253766605,
+      "distribution_type": "normal"
+    },
+    {
+      "field_name": "Unnamed: 7",
+      "total_count": 1595,
+      "non_null_count": "587",
+      "null_count": "1008",
+      "null_percentage": 63.19749216300941,
+      "unique_count": 530,
+      "cardinality": "medium",
+      "data_type": "string",
+      "min_length": 7,
+      "max_length": 27,
+      "mean_length": 7.991482112436116,
+      "top_values": [
+        {
+          "value": "22344438",
+          "count": 22,
+          "percentage": 1.3793103448275863
+        },
+        {
+          "value": "25363768",
+          "count": 7,
+          "percentage": 0.438871473354232
+        },
+        {
+          "value": "28263302",
+          "count": 6,
+          "percentage": 0.3761755485893417
+        },
+        {
+          "value": "25807282",
+          "count": 5,
+          "percentage": 0.3134796238244514
+        },
+        {
+          "value": "22542183",
+          "count": 5,
+          "percentage": 0.3134796238244514
+        },
+        {
+          "value": "27824329",
+          "count": 4,
+          "percentage": 0.25078369905956116
+        },
+        {
+          "value": "25363760",
+          "count": 3,
+          "percentage": 0.18808777429467086
+        },
+        {
+          "value": "33057194",
+          "count": 3,
+          "percentage": 0.18808777429467086
+        },
+        {
+          "value": "22106001",
+          "count": 2,
+          "percentage": 0.12539184952978058
+        },
+        {
+          "value": "26556299",
+          "count": 2,
+          "percentage": 0.12539184952978058
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 8",
+      "total_count": 1595,
+      "non_null_count": "489",
+      "null_count": "1106",
+      "null_percentage": 69.34169278996866,
+      "unique_count": 443,
+      "cardinality": "medium",
+      "data_type": "string",
+      "min_length": 7,
+      "max_length": 44,
+      "mean_length": 8.098159509202453,
+      "top_values": [
+        {
+          "value": "25807282",
+          "count": 12,
+          "percentage": 0.7523510971786834
+        },
+        {
+          "value": "28406212",
+          "count": 9,
+          "percentage": 0.5642633228840125
+        },
+        {
+          "value": "32461654",
+          "count": 8,
+          "percentage": 0.5015673981191223
+        },
+        {
+          "value": "27824329",
+          "count": 4,
+          "percentage": 0.25078369905956116
+        },
+        {
+          "value": "28135719",
+          "count": 4,
+          "percentage": 0.25078369905956116
+        },
+        {
+          "value": "25363768",
+          "count": 4,
+          "percentage": 0.25078369905956116
+        },
+        {
+          "value": "28263302",
+          "count": 4,
+          "percentage": 0.25078369905956116
+        },
+        {
+          "value": "23871722",
+          "count": 3,
+          "percentage": 0.18808777429467086
+        },
+        {
+          "value": "25363760",
+          "count": 3,
+          "percentage": 0.18808777429467086
+        },
+        {
+          "value": "28191889",
+          "count": 2,
+          "percentage": 0.12539184952978058
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 9",
+      "total_count": 1595,
+      "non_null_count": "242",
+      "null_count": "1353",
+      "null_percentage": 84.82758620689656,
+      "unique_count": 220,
+      "cardinality": "medium",
+      "data_type": "string",
+      "min_length": 7,
+      "max_length": 18,
+      "mean_length": 8.024793388429751,
+      "top_values": [
+        {
+          "value": "32461654",
+          "count": 12,
+          "percentage": 0.7523510971786834
+        },
+        {
+          "value": "25807282",
+          "count": 7,
+          "percentage": 0.438871473354232
+        },
+        {
+          "value": "28406212",
+          "count": 2,
+          "percentage": 0.12539184952978058
+        },
+        {
+          "value": "33004838",
+          "count": 2,
+          "percentage": 0.12539184952978058
+        },
+        {
+          "value": "25533962",
+          "count": 2,
+          "percentage": 0.12539184952978058
+        },
+        {
+          "value": "26350204",
+          "count": 2,
+          "percentage": 0.12539184952978058
+        },
+        {
+          "value": "33057194",
+          "count": 2,
+          "percentage": 0.12539184952978058
+        },
+        {
+          "value": "33277604",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "29209020",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "29098737",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 10",
+      "total_count": 1595,
+      "non_null_count": "169",
+      "null_count": "1426",
+      "null_percentage": 89.40438871473354,
+      "unique_count": 158,
+      "cardinality": "medium",
+      "data_type": "float",
+      "min": 7493025.0,
+      "max": 39333428.0,
+      "mean": 28303069.455621302,
+      "median": 30048823.0,
+      "std": 6501735.027842154,
+      "q1": 25363760.0,
+      "q3": 32868804.0,
+      "iqr": 7505044.0,
+      "outlier_count": 8,
+      "outlier_percentage": 4.733727810650888,
+      "skewness": -0.9714309152073601,
+      "distribution_type": "skewed_left"
+    },
+    {
+      "field_name": "Unnamed: 11",
+      "total_count": 1595,
+      "non_null_count": "107",
+      "null_count": "1488",
+      "null_percentage": 93.29153605015674,
+      "unique_count": 106,
+      "cardinality": "medium",
+      "data_type": "float",
+      "min": 10742103.0,
+      "max": 38108116.0,
+      "mean": 28097534.21495327,
+      "median": 30242134.0,
+      "std": 7007689.717848046,
+      "q1": 24668003.5,
+      "q3": 33460883.5,
+      "iqr": 8792880.0,
+      "outlier_count": 3,
+      "outlier_percentage": 2.803738317757009,
+      "skewness": -0.7809838650277332,
+      "distribution_type": "skewed_left"
+    },
+    {
+      "field_name": "0",
+      "total_count": 1595,
+      "non_null_count": "1595",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 6,
+      "cardinality": "low",
+      "data_type": "string",
+      "min_length": 1,
+      "max_length": 17,
+      "mean_length": 3.6702194357366773,
+      "top_values": [
+        {
+          "value": "0",
+          "count": 1313,
+          "percentage": 82.31974921630095
+        },
+        {
+          "value": "Not yet evaluated",
+          "count": 266,
+          "percentage": 16.677115987460812
+        },
+        {
+          "value": "1",
+          "count": 9,
+          "percentage": 0.5642633228840125
+        },
+        {
+          "value": "40",
+          "count": 3,
+          "percentage": 0.18808777429467086
+        },
+        {
+          "value": "3",
+          "count": 3,
+          "percentage": 0.18808777429467086
+        },
+        {
+          "value": "2",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "No evidence available",
+      "total_count": 1595,
+      "non_null_count": "1595",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 6,
+      "cardinality": "low",
+      "data_type": "string",
+      "min_length": 17,
+      "max_length": 44,
+      "mean_length": 20.505329153605015,
+      "top_values": [
+        {
+          "value": "No evidence available",
+          "count": 1313,
+          "percentage": 82.31974921630095
+        },
+        {
+          "value": "Not yet evaluated",
+          "count": 266,
+          "percentage": 16.677115987460812
+        },
+        {
+          "value": "Little evidence for dosage pathogenicity",
+          "count": 9,
+          "percentage": 0.5642633228840125
+        },
+        {
+          "value": "Dosage sensitivity unlikely",
+          "count": 3,
+          "percentage": 0.18808777429467086
+        },
+        {
+          "value": "Sufficient evidence for dosage pathogenicity",
+          "count": 3,
+          "percentage": 0.18808777429467086
+        },
+        {
+          "value": "Some evidence for dosage pathogenicity",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        }
+      ],
+      "pattern": null
+    },
+    {
+      "field_name": "Unnamed: 14",
+      "total_count": 1595,
+      "non_null_count": "42",
+      "null_count": "1553",
+      "null_percentage": 97.36677115987462,
+      "unique_count": 42,
+      "cardinality": "unique",
+      "data_type": "float",
+      "min": 11391481.0,
+      "max": 34999443.0,
+      "mean": 23659723.904761903,
+      "median": 23534644.5,
+      "std": 5183696.097147285,
+      "q1": 19860698.0,
+      "q3": 27018230.75,
+      "iqr": 7157532.75,
+      "outlier_count": 0,
+      "outlier_percentage": 0.0,
+      "skewness": 0.01621799106927831,
+      "distribution_type": "normal"
+    },
+    {
+      "field_name": "Unnamed: 15",
+      "total_count": 1595,
+      "non_null_count": "16",
+      "null_count": "1579",
+      "null_percentage": 98.99686520376176,
+      "unique_count": 16,
+      "cardinality": "unique",
+      "data_type": "float",
+      "min": 10417279.0,
+      "max": 35098650.0,
+      "mean": 23079852.25,
+      "median": 22250562.0,
+      "std": 5606702.7115981635,
+      "q1": 20509442.0,
+      "q3": 24985679.75,
+      "iqr": 4476237.75,
+      "outlier_count": 3,
+      "outlier_percentage": 18.75,
+      "skewness": 0.22600381543568293,
+      "distribution_type": "normal"
+    },
+    {
+      "field_name": "Unnamed: 16",
+      "total_count": 1595,
+      "non_null_count": "8",
+      "null_count": "1587",
+      "null_percentage": 99.49843260188088,
+      "unique_count": 8,
+      "cardinality": "unique",
+      "data_type": "float",
+      "min": 19376225.0,
+      "max": 32777817.0,
+      "mean": 26398485.625,
+      "median": 27270652.5,
+      "std": 4318787.353489136,
+      "q1": 24201658.5,
+      "q3": 28810295.5,
+      "iqr": 4608637.0,
+      "outlier_count": 0,
+      "outlier_percentage": 0.0,
+      "skewness": -0.3474377018681568,
+      "distribution_type": "normal"
+    },
+    {
+      "field_name": "Unnamed: 17",
+      "total_count": 1595,
+      "non_null_count": "5",
+      "null_count": "1590",
+      "null_percentage": 99.68652037617555,
+      "unique_count": 5,
+      "cardinality": "unique",
+      "data_type": "float",
+      "min": 9634530.0,
+      "max": 33465452.0,
+      "mean": 26190561.6,
+      "median": 30697589.0,
+      "std": 9600020.917526131,
+      "q1": 26352083.0,
+      "q3": 30803154.0,
+      "iqr": 4451071.0,
+      "outlier_count": 1,
+      "outlier_percentage": 20.0,
+      "skewness": -1.8665208292865443,
+      "distribution_type": "skewed_left"
+    },
+    {
+      "field_name": "Unnamed: 18",
+      "total_count": 1595,
+      "non_null_count": "2",
+      "null_count": "1593",
+      "null_percentage": 99.87460815047022,
+      "unique_count": 2,
+      "cardinality": "unique",
+      "data_type": "float",
+      "min": 31678974.0,
+      "max": 33981811.0,
+      "mean": 32830392.5,
+      "median": 32830392.5,
+      "std": 1628351.6586672855,
+      "q1": 32254683.25,
+      "q3": 33406101.75,
+      "iqr": 1151418.5,
+      "outlier_count": 0,
+      "outlier_percentage": 0.0,
+      "skewness": 0,
+      "distribution_type": "normal"
+    },
+    {
+      "field_name": "Unnamed: 19",
+      "total_count": 1595,
+      "non_null_count": "1",
+      "null_count": "1594",
+      "null_percentage": 99.93730407523512,
+      "unique_count": 1,
+      "cardinality": "unique",
+      "data_type": "float",
+      "min": 25791725.0,
+      "max": 25791725.0,
+      "mean": 25791725.0,
+      "median": 25791725.0,
+      "std": 0,
+      "q1": 25791725.0,
+      "q3": 25791725.0,
+      "iqr": 0.0,
+      "outlier_count": 0,
+      "outlier_percentage": 0.0,
+      "skewness": 0,
+      "distribution_type": "normal"
+    },
+    {
+      "field_name": "2014-12-11",
+      "total_count": 1595,
+      "non_null_count": "1595",
+      "null_count": "0",
+      "null_percentage": 0.0,
+      "unique_count": 496,
+      "cardinality": "medium",
+      "data_type": "date",
+      "min_date": "2011-10-19T00:00:00",
+      "max_date": "2025-09-28T00:00:00",
+      "range_days": 5093,
+      "range_years": 13.943874058863791
+    },
+    {
+      "field_name": "Unnamed: 21",
+      "total_count": 1595,
+      "non_null_count": "1270",
+      "null_count": "325",
+      "null_percentage": 20.37617554858934,
+      "unique_count": 1099,
+      "cardinality": "high",
+      "data_type": "string",
+      "min_length": 13,
+      "max_length": 13,
+      "mean_length": 13.0,
+      "top_values": [
+        {
+          "value": "MONDO:0100038",
+          "count": 73,
+          "percentage": 4.57680250783699
+        },
+        {
+          "value": "MONDO:0000508",
+          "count": 16,
+          "percentage": 1.0031347962382446
+        },
+        {
+          "value": "MONDO:0009723",
+          "count": 8,
+          "percentage": 0.5015673981191223
+        },
+        {
+          "value": "MONDO:0100224",
+          "count": 7,
+          "percentage": 0.438871473354232
+        },
+        {
+          "value": "MONDO:0017366",
+          "count": 6,
+          "percentage": 0.3761755485893417
+        },
+        {
+          "value": "MONDO:0100062",
+          "count": 5,
+          "percentage": 0.3134796238244514
+        },
+        {
+          "value": "MONDO:0005258",
+          "count": 5,
+          "percentage": 0.3134796238244514
+        },
+        {
+          "value": "MONDO:0015369",
+          "count": 5,
+          "percentage": 0.3134796238244514
+        },
+        {
+          "value": "MONDO:0020119",
+          "count": 5,
+          "percentage": 0.3134796238244514
+        },
+        {
+          "value": "MONDO:0005021",
+          "count": 5,
+          "percentage": 0.3134796238244514
+        }
+      ],
+      "pattern": "MONDO ID"
+    },
+    {
+      "field_name": "Unnamed: 22",
+      "total_count": 1595,
+      "non_null_count": "14",
+      "null_count": "1581",
+      "null_percentage": 99.12225705329153,
+      "unique_count": 12,
+      "cardinality": "medium",
+      "data_type": "string",
+      "min_length": 13,
+      "max_length": 13,
+      "mean_length": 13.0,
+      "top_values": [
+        {
+          "value": "MONDO:0009525",
+          "count": 3,
+          "percentage": 0.18808777429467086
+        },
+        {
+          "value": "MONDO:0008555",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "MONDO:0100062",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "MONDO:0010407",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "MONDO:0008215",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "MONDO:0010283",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "MONDO:0010714",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "MONDO:0007309",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "MONDO:0023599",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        },
+        {
+          "value": "MONDO:0008104",
+          "count": 1,
+          "percentage": 0.06269592476489029
+        }
+      ],
+      "pattern": "MONDO ID"
+    }
+  ]
+}

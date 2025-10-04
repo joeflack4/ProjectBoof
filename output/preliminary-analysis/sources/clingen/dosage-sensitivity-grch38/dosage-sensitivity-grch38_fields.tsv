@@ -1,0 +1,24 @@
+field_name	data_type	null_count	null_percentage	cardinality	unique_count	min_value	max_value	mean_value	min_length	max_length	mean_length	identifiers
+A4GALT	string	0	0.0	unique	1595				2	9	4.980564263322884	
+53947	integer	0	0.0	unique	1595							
+22q13.2	string	0	0.0	medium	615				4	21	6.603134796238245	
+chr22:42692121-42721301	string	0	0.0	unique	1595				18	25	22.813166144200625	
+30	integer	0	0.0	low	6							
+Gene associated with autosomal recessive phenotype	string	0	0.0	low	6				21	50	41.72100313479624	
+Unnamed: 6	float	945	59.24764890282132	medium	585							
+Unnamed: 7	string	1008	63.19749216300941	medium	530				7	27	7.991482112436116	
+Unnamed: 8	string	1106	69.34169278996866	medium	443				7	44	8.098159509202453	
+Unnamed: 9	string	1353	84.82758620689656	medium	220				7	18	8.024793388429751	
+Unnamed: 10	float	1426	89.40438871473354	medium	158							
+Unnamed: 11	float	1488	93.29153605015674	medium	106							
+0	string	0	0.0	low	6				1	17	3.6702194357366773	
+No evidence available	string	0	0.0	low	6				17	44	20.505329153605015	
+Unnamed: 14	float	1553	97.36677115987462	unique	42							
+Unnamed: 15	float	1579	98.99686520376176	unique	16							
+Unnamed: 16	float	1587	99.49843260188088	unique	8							
+Unnamed: 17	float	1590	99.68652037617555	unique	5							
+Unnamed: 18	float	1593	99.87460815047022	unique	2							
+Unnamed: 19	float	1594	99.93730407523512	unique	1							
+2014-12-11	date	0	0.0	medium	496							
+Unnamed: 21	string	325	20.37617554858934	high	1099				13	13	13.0	
+Unnamed: 22	string	1581	99.12225705329153	medium	12				13	13	13.0	

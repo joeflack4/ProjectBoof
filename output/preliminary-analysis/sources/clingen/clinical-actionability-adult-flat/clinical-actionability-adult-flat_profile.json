@@ -1,0 +1,39 @@
+{
+  "filepath": "data/sources/clingen/actionability/clinical-actionability-adult-flat.json",
+  "filename": "clinical-actionability-adult-flat.json",
+  "file_size_mb": 0.1309366226196289,
+  "format": "json",
+  "max_depth": 3,
+  "node_count": 7142,
+  "unique_paths": 5,
+  "paths": [
+    "columns",
+    "columns[]",
+    "rows",
+    "rows[]",
+    "rows[][]"
+  ],
+  "schema": {
+    "type": "object",
+    "properties": {
+      "columns": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "length": 27
+      },
+      "rows": {
+        "type": "array",
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "length": 27
+        },
+        "length": 254
+      }
+    }
+  }
+}

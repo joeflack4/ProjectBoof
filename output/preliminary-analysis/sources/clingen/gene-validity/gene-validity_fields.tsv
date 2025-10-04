@@ -1,0 +1,11 @@
+field_name	data_type	null_count	null_percentage	cardinality	unique_count	min_value	max_value	mean_value	min_length	max_length	mean_length	identifiers
+CLINGEN GENE DISEASE VALIDITY CURATIONS	string	0	0.0	high	2733				2	59	5.035725098395398	
+Unnamed: 1	string	2	0.060551014229488345	high	2731				7	14	9.422296273856407	
+Unnamed: 2	string	2	0.060551014229488345	high	1891				8	144	33.35867918812481	
+Unnamed: 3	string	2	0.060551014229488345	high	1890				13	18	13.004544077552257	
+Unnamed: 4	string	2	0.060551014229488345	low	8				2	9	2.0045440775522567	
+Unnamed: 5	string	2	0.060551014229488345	medium	10				3	9	4.333232353832172	
+Unnamed: 6	string	2	0.060551014229488345	low	9				6	29	9.369282035746743	
+Unnamed: 7	string	2	0.060551014229488345	high	3300				13	125	123.53317176613147	
+Unnamed: 8	string	2	0.060551014229488345	high	1978				19	24	23.863677673432292	
+Unnamed: 9	string	2	0.060551014229488345	medium	60				4	86	49.09179036655559	

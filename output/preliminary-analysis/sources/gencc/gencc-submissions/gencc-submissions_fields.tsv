@@ -1,0 +1,31 @@
+field_name	data_type	null_count	null_percentage	cardinality	unique_count	min_value	max_value	mean_value	min_length	max_length	mean_length	identifiers
+uuid	string	0	0.0	unique	24124				55	64	59.43728237439894	
+gene_curie	string	0	0.0	high	5533				6	10	9.419623611341402	
+gene_symbol	string	0	0.0	high	5533				2	10	5.013016083568231	
+disease_curie	string	0	0.0	high	7566				13	13	13.0	
+disease_title	string	0	0.0	high	7555				6	144	37.702951417675344	
+disease_original_curie	string	0	0.0	high	11050				10	15	12.016083568230808	
+disease_original_title	string	0	0.0	high	10826				6	144	32.561391145746974	
+classification_curie	string	0	0.0	low	8				12	12	12.0	
+classification_title	string	0	0.0	low	8				6	29	8.355330790913612	
+moi_curie	string	0	0.0	low	8				10	10	10.0	
+moi_title	string	0	0.0	low	8				7	20	17.508000331619964	
+submitter_curie	string	0	0.0	medium	16				12	12	12.0	
+submitter_title	string	0	0.0	medium	16				3	67	16.15785110263638	
+submitted_as_hgnc_id	string	0	0.0	high	5534				6	11	9.419665063836844	
+submitted_as_hgnc_symbol	string	0	0.0	high	5577				2	10	5.0154203283037635	
+submitted_as_disease_id	string	0	0.0	high	11051				10	15	12.016125020726248	
+submitted_as_disease_name	string	5	0.02072624772011275	high	16597				2	145	39.74629959782744	
+submitted_as_moi_id	string	0	0.0	medium	11				10	11	10.001450837340409	
+submitted_as_moi_name	string	419	1.7368595589454485	medium	26				2	65	24.192997257962457	
+submitted_as_submitter_id	string	0	0.0	medium	16				12	12	12.0	
+submitted_as_submitter_name	string	0	0.0	medium	22				4	67	9.81988890731222	
+submitted_as_classification_id	string	0	0.0	low	9				12	13	12.00004145249544	
+submitted_as_classification_name	string	0	0.0	medium	23				6	29	8.353382523627923	
+submitted_as_date	string	0	0.0	high	10790				19	19	19.0	
+submitted_as_public_report_url	string	15868	65.77681976454983	high	6275				33	125	72.32473352713178	
+submitted_as_notes	string	23681	98.163654451998	medium	176				120	3562	521.9029345372461	
+submitted_as_pmids	string	9151	37.933178577350354	high	13318				1	790	31.58385093167702	
+submitted_as_assertion_criteria_url	string	1247	5.16912618139612	medium	224				14	126	75.04191983214582	
+submitted_as_submission_id	string	0	0.0	high	21640				1	46	13.161333112253358	
+submitted_run_date	date	0	0.0	medium	41							

@@ -1,0 +1,4 @@
+source	filepath	filename	file_size_mb	row_count	column_count	delimiter	encoding	analyzed_date	sample_size
+clingen	clingen/gene-validity/gene-validity.csv	gene-validity.csv	0.9540548324584961	3303	10	,	utf-8	2025-10-04T22:15:41.529878	
+clingen	clingen/dosage-sensitivity/dosage-sensitivity-grch38.tsv	dosage-sensitivity-grch38.tsv	0.24626541137695312	1595	23	"	"	utf-8	2025-10-04T22:15:42.750616	
+gencc	gencc/gencc-submissions.tsv	gencc-submissions.tsv	14.833300590515137	24124	30	"	"	utf-8	2025-10-04T22:15:39.529752	

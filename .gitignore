@@ -1,0 +1,80 @@
+# data/
+# - Decide: ignore all sources, or case by case?
+# - for now, ignore all, and add ! exception patterns as needed.
+data/
+
+# Boilerplate
+__pycache__/
+_archive/
+_dev/
+.idea/
+build/
+dev/
+dist/
+ignored/
+logs/
+*~$*
+*.DS_Store
+*.egg-info
+*.swp
+MANIFEST
+
+# Custom
+output/*
+!output/preliminary-analysis/
+bak/
+/*.json
+!config.json
+*/cache/*
+!*/cache/.keep
+flag-words.txt
+# Environment files
+.env
+.env.*
+!/env/env.example
+.ipynb_checkpoints/
+*.parquet*
+env/*
+/venv/
+junk
+*/junk.json
+*.ipynb
+.idea
+.DS_Store
+backup/
+.vscode/
+*.code-workspace
+*.dmp
+.log
+#notes/  # actually; commit these; when done, can put the files in _archive/.
+
+# Frontend
+# - JS: CreateReactApp
+#   See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#   dependencies
+node_modules
+/.pnp
+.pnp.js
+.vite/
+# testing
+/coverage
+/frontend/tests/e2e/output/
+/frontend/playwright/.cache/
+/frontend/tests/playwright/performance/*
+!/frontend/tests/playwright/performance/.keep
+# production
+/build
+# misc
+npm-debug.log*
+/frontend/.yarn/*
+yarn-debug.log*
+yarn-error.log*
+
+# LLM
+.claude/
+
+# Test
+playwright-report/
+test-results/
+test_output/
+test_genonaut_api.sqlite3

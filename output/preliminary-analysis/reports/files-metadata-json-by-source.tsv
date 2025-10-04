@@ -1,0 +1,3 @@
+source	filepath	filename	file_size_mb	format	max_depth	node_count	unique_paths	analyzed_date
+tcga	data/sources/tcga/open-access/biospecimen/TCGA-BRCA/aa06e869-8576-4428-b23e-1de81d4ebe2b/nationwidechildrens.org_biospecimen.TCGA-B6-A409.xml	nationwidechildrens.org_biospecimen.TCGA-B6-A409.xml	0.049713134765625	xml	10	395	128	
+clingen	data/sources/clingen/actionability/clinical-actionability-adult-flat.json	clinical-actionability-adult-flat.json	0.1309366226196289	json	3	7142	5	

@@ -1,0 +1,64 @@
+source	filename	field_name	data_type	null_count	null_percentage	cardinality	unique_count	min_value	max_value	mean_value	min_length	max_length	mean_length
+clingen	gene-validity.csv	CLINGEN GENE DISEASE VALIDITY CURATIONS	string	0	0.0	high	2733				2	59	5.035725098395398
+clingen	gene-validity.csv	Unnamed: 1	string	2	0.060551014229488345	high	2731				7	14	9.422296273856407
+clingen	gene-validity.csv	Unnamed: 2	string	2	0.060551014229488345	high	1891				8	144	33.35867918812481
+clingen	gene-validity.csv	Unnamed: 3	string	2	0.060551014229488345	high	1890				13	18	13.004544077552257
+clingen	gene-validity.csv	Unnamed: 4	string	2	0.060551014229488345	low	8				2	9	2.0045440775522567
+clingen	gene-validity.csv	Unnamed: 5	string	2	0.060551014229488345	medium	10				3	9	4.333232353832172
+clingen	gene-validity.csv	Unnamed: 6	string	2	0.060551014229488345	low	9				6	29	9.369282035746743
+clingen	gene-validity.csv	Unnamed: 7	string	2	0.060551014229488345	high	3300				13	125	123.53317176613147
+clingen	gene-validity.csv	Unnamed: 8	string	2	0.060551014229488345	high	1978				19	24	23.863677673432292
+clingen	gene-validity.csv	Unnamed: 9	string	2	0.060551014229488345	medium	60				4	86	49.09179036655559
+clingen	dosage-sensitivity-grch38.tsv	A4GALT	string	0	0.0	unique	1595				2	9	4.980564263322884
+clingen	dosage-sensitivity-grch38.tsv	53947	integer	0	0.0	unique	1595						
+clingen	dosage-sensitivity-grch38.tsv	22q13.2	string	0	0.0	medium	615				4	21	6.603134796238245
+clingen	dosage-sensitivity-grch38.tsv	chr22:42692121-42721301	string	0	0.0	unique	1595				18	25	22.813166144200625
+clingen	dosage-sensitivity-grch38.tsv	30	integer	0	0.0	low	6						
+clingen	dosage-sensitivity-grch38.tsv	Gene associated with autosomal recessive phenotype	string	0	0.0	low	6				21	50	41.72100313479624
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 6	float	945	59.24764890282132	medium	585						
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 7	string	1008	63.19749216300941	medium	530				7	27	7.991482112436116
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 8	string	1106	69.34169278996866	medium	443				7	44	8.098159509202453
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 9	string	1353	84.82758620689656	medium	220				7	18	8.024793388429751
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 10	float	1426	89.40438871473354	medium	158						
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 11	float	1488	93.29153605015674	medium	106						
+clingen	dosage-sensitivity-grch38.tsv	0	string	0	0.0	low	6				1	17	3.6702194357366773
+clingen	dosage-sensitivity-grch38.tsv	No evidence available	string	0	0.0	low	6				17	44	20.505329153605015
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 14	float	1553	97.36677115987462	unique	42						
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 15	float	1579	98.99686520376176	unique	16						
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 16	float	1587	99.49843260188088	unique	8						
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 17	float	1590	99.68652037617555	unique	5						
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 18	float	1593	99.87460815047022	unique	2						
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 19	float	1594	99.93730407523512	unique	1						
+clingen	dosage-sensitivity-grch38.tsv	2014-12-11	date	0	0.0	medium	496						
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 21	string	325	20.37617554858934	high	1099				13	13	13.0
+clingen	dosage-sensitivity-grch38.tsv	Unnamed: 22	string	1581	99.12225705329153	medium	12				13	13	13.0
+gencc	gencc-submissions.tsv	uuid	string	0	0.0	unique	24124				55	64	59.43728237439894
+gencc	gencc-submissions.tsv	gene_curie	string	0	0.0	high	5533				6	10	9.419623611341402
+gencc	gencc-submissions.tsv	gene_symbol	string	0	0.0	high	5533				2	10	5.013016083568231
+gencc	gencc-submissions.tsv	disease_curie	string	0	0.0	high	7566				13	13	13.0
+gencc	gencc-submissions.tsv	disease_title	string	0	0.0	high	7555				6	144	37.702951417675344
+gencc	gencc-submissions.tsv	disease_original_curie	string	0	0.0	high	11050				10	15	12.016083568230808
+gencc	gencc-submissions.tsv	disease_original_title	string	0	0.0	high	10826				6	144	32.561391145746974
+gencc	gencc-submissions.tsv	classification_curie	string	0	0.0	low	8				12	12	12.0
+gencc	gencc-submissions.tsv	classification_title	string	0	0.0	low	8				6	29	8.355330790913612
+gencc	gencc-submissions.tsv	moi_curie	string	0	0.0	low	8				10	10	10.0
+gencc	gencc-submissions.tsv	moi_title	string	0	0.0	low	8				7	20	17.508000331619964
+gencc	gencc-submissions.tsv	submitter_curie	string	0	0.0	medium	16				12	12	12.0
+gencc	gencc-submissions.tsv	submitter_title	string	0	0.0	medium	16				3	67	16.15785110263638
+gencc	gencc-submissions.tsv	submitted_as_hgnc_id	string	0	0.0	high	5534				6	11	9.419665063836844
+gencc	gencc-submissions.tsv	submitted_as_hgnc_symbol	string	0	0.0	high	5577				2	10	5.0154203283037635
+gencc	gencc-submissions.tsv	submitted_as_disease_id	string	0	0.0	high	11051				10	15	12.016125020726248
+gencc	gencc-submissions.tsv	submitted_as_disease_name	string	5	0.02072624772011275	high	16597				2	145	39.74629959782744
+gencc	gencc-submissions.tsv	submitted_as_moi_id	string	0	0.0	medium	11				10	11	10.001450837340409
+gencc	gencc-submissions.tsv	submitted_as_moi_name	string	419	1.7368595589454485	medium	26				2	65	24.192997257962457
+gencc	gencc-submissions.tsv	submitted_as_submitter_id	string	0	0.0	medium	16				12	12	12.0
+gencc	gencc-submissions.tsv	submitted_as_submitter_name	string	0	0.0	medium	22				4	67	9.81988890731222
+gencc	gencc-submissions.tsv	submitted_as_classification_id	string	0	0.0	low	9				12	13	12.00004145249544
+gencc	gencc-submissions.tsv	submitted_as_classification_name	string	0	0.0	medium	23				6	29	8.353382523627923
+gencc	gencc-submissions.tsv	submitted_as_date	string	0	0.0	high	10790				19	19	19.0
+gencc	gencc-submissions.tsv	submitted_as_public_report_url	string	15868	65.77681976454983	high	6275				33	125	72.32473352713178
+gencc	gencc-submissions.tsv	submitted_as_notes	string	23681	98.163654451998	medium	176				120	3562	521.9029345372461
+gencc	gencc-submissions.tsv	submitted_as_pmids	string	9151	37.933178577350354	high	13318				1	790	31.58385093167702
+gencc	gencc-submissions.tsv	submitted_as_assertion_criteria_url	string	1247	5.16912618139612	medium	224				14	126	75.04191983214582
+gencc	gencc-submissions.tsv	submitted_as_submission_id	string	0	0.0	high	21640				1	46	13.161333112253358
+gencc	gencc-submissions.tsv	submitted_run_date	date	0	0.0	medium	41						
